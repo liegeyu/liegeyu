@@ -1,4 +1,7 @@
-### Hello. I'm hairy. A hot-blooded boy!👋👋👋
+### Hello! I'm hairy 👋
+### A front-end developer who loves computer technology and automobiles.
+
+### Hi, 我是海子, 一名热爱计算机与汽车的前端开发者
 
 <!--
 **liegeyu/liegeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
