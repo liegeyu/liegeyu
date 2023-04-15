@@ -1,19 +1,19 @@
-### Hello! I'm hairy 👋
-### A front-end developer who loves computer technology and automobiles.
+### Hello there 👋
+### I'm Hairy - a front-end developer who loves electronic packand and cars, in the future will be transitioning towards threejs/Webgl .
 
-### Hi, 我是海子, 一名热爱计算机与汽车的前端开发者
+### Hello, 我是Hairy, 一名热爱电子数码与汽车准前端开发者！
 
-<!--
-**liegeyu/liegeyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 前端学习：2022-01 -- 至今
+  - 我的笔记博客：
 
-Here are some ideas to get you started:
+### Here are my skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,webpack,nodejs,sass,md" />
+  </a>
+</p>
+
+## 坚持才是最难的
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liegeyu&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
