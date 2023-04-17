@@ -11,9 +11,10 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,webpack,nodejs,sass,md" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,vue,webpack,vite,nodejs,sass,md" />
   </a>
 </p>
+
 
 ## 坚持才是最难的
 
