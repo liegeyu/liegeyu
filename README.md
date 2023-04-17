@@ -4,7 +4,8 @@
 ### Hello, 我是Hairy, 一名热爱电子数码与汽车准前端开发者！
 
 - 前端学习：2022-01 -- 至今
-  - 我的笔记博客：
+  - 我的笔记博客：[点击此处](https://blog.csdn.net/qq_51808659?spm=1000.2115.3001.5343)
+  - 我的码云gitee：[点击此处](https://gitee.com/haiyr377)
 
 ### Here are my skills:
 
